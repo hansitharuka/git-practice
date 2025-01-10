@@ -21,7 +21,7 @@ export default function Home() {
 
         <p>Git Hub Branch test</p>
 
-        <p>Git Hub Pull Request</p>
+        <p>Git Hub Pull Request conflicts ex</p>
 
         <h2>{getGreeting()}</h2>
 
