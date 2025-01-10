@@ -21,7 +21,10 @@ export default function Home() {
 
         <p>Git Hub Branch test</p>
 
+        <p>Git Hub Pull Request</p>
+
         <h2>{getGreeting()}</h2>
+
 
         {/* <h2>{alert("National Institute Of Business Management")}</h2> */}
 
