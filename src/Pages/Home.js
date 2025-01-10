@@ -15,6 +15,8 @@ export default function Home() {
     <div>
         <h1>{name} Welcome to Home Page</h1>
 
+        <p>Git Hub testing push command</p>
+
         <h2>{getGreeting()}</h2>
 
         {/* <h2>{alert("National Institute Of Business Management")}</h2> */}
